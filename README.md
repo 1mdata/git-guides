@@ -10,5 +10,7 @@
 * ...
    
 ####Git 的使用规范
-* 在工作中的使用流程
+* [在工作中的使用流程][workflow]
 * ...
+
+[workflow]:https://github.com/cjiayi/git-guides/blob/master/git-work-flow.md
